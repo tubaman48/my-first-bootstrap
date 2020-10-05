@@ -1,6 +1,6 @@
 # Whiskey Drop - My very first bootstrap built web page
 
-<img src="/assets/img/RJL_Profile_picture.jpg" alt="tubaman48 GitHub profile picture" style="margin: 0;">
+<img src="/img/RJL_Profile_picture.jpg" alt="tubaman48 GitHub profile picture" style="margin: 0;">
 
 Welcome! This workspace covers my first working bootstrap.
 
